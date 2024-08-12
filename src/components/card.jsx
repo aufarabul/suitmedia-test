@@ -1,7 +1,7 @@
 import { Col, Card, Image, Button } from "react-bootstrap";
 import PropTypes from "prop-types";
 import * as image from "../assets/img";
-
+import "./style.css";
 const card = ({ article }) => {
   const formatDate = (dateString) => {
     const months = [
@@ -42,7 +42,7 @@ const card = ({ article }) => {
         <Card.Img
           className="m-0"
           variant="top"
-          src={image.formula}
+          src={image.study}
           fluid
           //   style={{ width: "100%", height: "auto", objectFit: "cover" }}
         />
