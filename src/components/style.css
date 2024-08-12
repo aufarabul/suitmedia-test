@@ -1,0 +1,80 @@
+.image-container {
+  position: relative;
+  width: 100%;
+  height: auto;
+}
+
+.diagonal-cut {
+  width: 100%;
+  height: auto;
+  clip-path: polygon(0 0, 100% 0, 100% 50%, 0% 100%);
+}
+
+.centered-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white; /* Ubah warna teks sesuai kebutuhan */
+  font-size: 24px; /* Ubah ukuran teks sesuai kebutuhan */
+  font-weight: bold;
+  pointer-events: none; /* Agar teks tidak bisa diklik */
+}
+.centered-text2 {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white; /* Ubah warna teks sesuai kebutuhan */
+  font-size: 24px; /* Ubah ukuran teks sesuai kebutuhan */
+  font-weight: bold;
+  pointer-events: none; /* Agar teks tidak bisa diklik */
+}
+
+.page-link {
+  background-color: white;
+}
+
+.page-link:hover,
+.page-link:focus,
+.page-link.active {
+  background-color: orange;
+  border-color: orange;
+  color: white;
+}
+
+.dropdown-toggle {
+  background-color: white;
+  color: black;
+  border: 1px solid #ced4da;
+}
+
+.Card.Img {
+  margin: 0;
+}
+
+.scroll-color {
+  scrollbar-width: thin; /* Make the scrollbar thinner */
+  scrollbar-color: #fc6316 white;
+}
+
+.navbar-custom {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  transition: top 0.3s, background-color 0.3s;
+  background-color: rgba(252, 99, 22, 0.8); /* Sedikit transparan */
+  z-index: 1000;
+}
+
+.navbar-custom.hide {
+  top: -100px; /* Sembunyikan navbar */
+}
+
+.navbar-custom.show {
+  top: 0; /* Tampilkan navbar */
+}
+
+.navbar-custom.top {
+  background-color: #fc6316; /* Warna solid saat di atas */
+}

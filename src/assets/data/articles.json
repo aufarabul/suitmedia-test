@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "date": "2024-08-01",
+    "articleTitle": "Introduction to Data Science"
+  },
+  {
+    "id": 2,
+    "date": "2024-08-02",
+    "articleTitle": "Understanding Machine Learning"
+  },
+  {
+    "id": 3,
+    "date": "2024-08-03",
+    "articleTitle": "Big Data Analytics"
+  },
+  {
+    "id": 4,
+    "date": "2024-08-04",
+    "articleTitle": "Data Visualization Techniques"
+  },
+  {
+    "id": 5,
+    "date": "2024-08-05",
+    "articleTitle": "Supervised Learning Algorithms"
+  },
+  {
+    "id": 6,
+    "date": "2024-08-06",
+    "articleTitle": "Unsupervised Learning Methods"
+  },
+  {
+    "id": 7,
+    "date": "2024-08-07",
+    "articleTitle": "Introduction to Neural Networks"
+  },
+  {
+    "id": 8,
+    "date": "2024-08-08",
+    "articleTitle": "Deep Learning Basics"
+  },
+  {
+    "id": 9,
+    "date": "2024-08-09",
+    "articleTitle": "Natural Language Processing"
+  },
+  {
+    "id": 10,
+    "date": "2024-08-10",
+    "articleTitle": "Reinforcement Learning"
+  },
+  {
+    "id": 11,
+    "date": "2024-08-11",
+    "articleTitle": "Graph Theory in Data Science"
+  },
+  {
+    "id": 12,
+    "date": "2024-08-12",
+    "articleTitle": "Expert Systems Overview"
+  },
+  {
+    "id": 13,
+    "date": "2024-08-13",
+    "articleTitle": "Data Preprocessing Techniques"
+  },
+  {
+    "id": 14,
+    "date": "2024-08-14",
+    "articleTitle": "Feature Engineering"
+  },
+  {
+    "id": 15,
+    "date": "2024-08-15",
+    "articleTitle": "Model Evaluation Metrics"
+  },
+  {
+    "id": 16,
+    "date": "2024-08-16",
+    "articleTitle": "Hyperparameter Tuning"
+  },
+  {
+    "id": 17,
+    "date": "2024-08-17",
+    "articleTitle": "Ensemble Methods"
+  },
+  {
+    "id": 18,
+    "date": "2024-08-18",
+    "articleTitle": "Time Series Analysis"
+  },
+  {
+    "id": 19,
+    "date": "2024-08-19",
+    "articleTitle": "Anomaly Detection"
+  },
+  {
+    "id": 20,
+    "date": "2024-08-20",
+    "articleTitle": "Recommendation Systems"
+  },
+  {
+    "id": 21,
+    "date": "2024-08-21",
+    "articleTitle": "Clustering Algorithms"
+  },
+  {
+    "id": 22,
+    "date": "2024-08-22",
+    "articleTitle": "Dimensionality Reduction"
+  },
+  {
+    "id": 23,
+    "date": "2024-08-23",
+    "articleTitle": "Data Wrangling"
+  },
+  {
+    "id": 24,
+    "date": "2024-08-24",
+    "articleTitle": "Data Cleaning"
+  },
+  {
+    "id": 25,
+    "date": "2024-08-25",
+    "articleTitle": "Data Integration"
+  },
+  {
+    "id": 26,
+    "date": "2024-08-26",
+    "articleTitle": "Data Transformation"
+  },
+  {
+    "id": 27,
+    "date": "2024-08-27",
+    "articleTitle": "Data Reduction"
+  },
+  {
+    "id": 28,
+    "date": "2024-08-28",
+    "articleTitle": "Data Discretization"
+  },
+  {
+    "id": 29,
+    "date": "2024-08-29",
+    "articleTitle": "Data Visualization Tools"
+  },
+  {
+    "id": 30,
+    "date": "2024-08-30",
+    "articleTitle": "Introduction to Python for Data Science"
+  },
+  {
+    "id": 31,
+    "date": "2024-08-31",
+    "articleTitle": "Introduction to R for Data Science"
+  },
+  {
+    "id": 32,
+    "date": "2024-09-01",
+    "articleTitle": "Introduction to SQL for Data Science"
+  },
+  {
+    "id": 33,
+    "date": "2024-09-02",
+    "articleTitle": "Introduction to Hadoop"
+  },
+  {
+    "id": 34,
+    "date": "2024-09-03",
+    "articleTitle": "Introduction to Spark"
+  },
+  {
+    "id": 35,
+    "date": "2024-09-04",
+    "articleTitle": "Introduction to NoSQL Databases"
+  },
+  {
+    "id": 36,
+    "date": "2024-09-05",
+    "articleTitle": "Introduction to Data Warehousing"
+  },
+  {
+    "id": 37,
+    "date": "2024-09-06",
+    "articleTitle": "Introduction to Data Lakes"
+  },
+  {
+    "id": 38,
+    "date": "2024-09-07",
+    "articleTitle": "Introduction to Data Governance"
+  },
+  {
+    "id": 39,
+    "date": "2024-09-08",
+    "articleTitle": "Introduction to Data Security"
+  },
+  {
+    "id": 40,
+    "date": "2024-09-09",
+    "articleTitle": "Introduction to Data Privacy"
+  },
+  {
+    "id": 41,
+    "date": "2024-09-10",
+    "articleTitle": "Introduction to Data Ethics"
+  },
+  {
+    "id": 42,
+    "date": "2024-09-11",
+    "articleTitle": "Introduction to Data Quality"
+  },
+  {
+    "id": 43,
+    "date": "2024-09-12",
+    "articleTitle": "Introduction to Data Management"
+  },
+  {
+    "id": 44,
+    "date": "2024-09-13",
+    "articleTitle": "Introduction to Data Architecture"
+  },
+  {
+    "id": 45,
+    "date": "2024-09-14",
+    "articleTitle": "Introduction to Data Modeling"
+  },
+  {
+    "id": 46,
+    "date": "2024-09-15",
+    "articleTitle": "Introduction to Data Mining"
+  },
+  {
+    "id": 47,
+    "date": "2024-09-16",
+    "articleTitle": "Introduction to Data Analysis"
+  },
+  {
+    "id": 48,
+    "date": "2024-09-17",
+    "articleTitle": "Introduction to Data Science Projects"
+  },
+  {
+    "id": 49,
+    "date": "2024-09-18",
+    "articleTitle": "Introduction to Data Science Careers"
+  },
+  {
+    "id": 50,
+    "date": "2024-09-19",
+    "articleTitle": "Advanced Data Visualization Techniques"
+  }
+]
